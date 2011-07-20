@@ -1,0 +1,8 @@
+-- 1.0 ---------------------------------------------------------------------------------------------
+-- Cliqcliq app standard table.
+CREATE TABLE settings (
+  id integer primary key autoincrement not null,
+  key varchar(255) not null default '',
+  int_value integer not null default -1,
+  float_value float not null default -1.0,
+  string_value varchar(255) not null default '');
