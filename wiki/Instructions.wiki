@@ -99,7 +99,7 @@ Integration into your web application is as simple as adding a link and a small 
       if (new Date() - start > 2000) {
         return;
       }
-      window.location = 'http://www.cliqcliq.com/quickpic/install/';
+      window.location = 'http://code.google.com/p/quickpic/wiki/Install/';
     }, 1000);
 
     var getParams = ['action=http://www.yourcompany.com/upload/',
@@ -116,7 +116,7 @@ Integration into your web application is as simple as adding a link and a small 
   };
 </script>
 <a href="javascript:launchQuickpic();">
-    <img src="http://www.cliqcliq.com/static/images/quickpic/27-button.png" /></a>
+    <img src="http://code.google.com/p/quickpic/logo?cct=1311146035" /></a>
 }}}
 
 When the user has the Quickpic native iPhone application installed, opening a URL that starts with "vquickpic://" launches the application (from 1.2 onward, the preferred protocol is "vquickpic" rather than "quickpic", because we added version checking support). You pass parameters to the application just as you would a normal http URL. In the example above, the "action" parameter specifies where to upload the selected image and contact information. "continue" specifies which URL to go to once the upload is complete (or if the user cancels). Following is a reference for supported parameters:
