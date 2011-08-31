@@ -99,7 +99,7 @@ Integration into your web application is as simple as adding a link and a small 
       if (new Date() - start > 2000) {
         return;
       }
-      window.location = 'http://code.google.com/p/quickpic/wiki/Install/';
+      window.location = 'http://code.google.com/p/quickpic/wiki/Install';
     }, 1000);
 
     var getParams = ['action=http://www.yourcompany.com/upload/',
