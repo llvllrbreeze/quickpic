@@ -1,4 +1,4 @@
 =http://code.google.com/p/quickpic/logo?cct=1311146035&type=.png Quickpic Installation=
 Installing Quickpic just takes a few minutes.
-  # 1. Start by <a href="javascript:window.open('http://itunes.apple.com/us/app/cliqcliq-quickpic/id347874926?mt=8'); history.go(-1);">clicking here to launch the iTunes App Store</a>.
+  # Start by [http://itunes.apple.com/us/app/cliqcliq-quickpic/id347874926?mt=8 clicking here to launch the iTunes App Store].
   # When you're done, return to Safari.
